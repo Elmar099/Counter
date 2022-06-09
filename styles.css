@@ -1,0 +1,45 @@
+body {
+    background: #4d4fc2;
+}
+h1 {
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+}
+.container { 
+    height: 220px;
+    width: 700px;
+    margin: auto;
+    border: 7px solid rgb(218, 230, 230); 
+    background-color: rgb(36, 34, 43);
+  }
+#display {
+    font-size: xx-large;
+    font-family:  sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    color: white;
+}
+button{
+    position: relative;
+    background-color: transparent;
+    left: 15%;
+    background-color:#343461;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    width: 200px;
+    height: 50px;
+    font-size: 1rem;
+    margin-left: 30px; 
+    margin-top: 30px;
+    cursor: pointer; 
+}
+button:hover {
+    background-color: rgb(197, 171, 24);
+    transition: 0.9s;
+}
+
+    
